@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-18T23:19:40.586Z</updated>
+  <updated>2023-01-19T09:45:17.445Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,16 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2023/01/19/hello-world/"/>
-    <id>http://example.com/2023/01/19/hello-world/</id>
+    <title>Hexo发表文章流程及注意事项-转</title>
+    <link href="http://example.com/2023/01/19/Hexo%E5%8F%91%E8%A1%A8%E6%96%87%E7%AB%A0%E6%B5%81%E7%A8%8B/"/>
+    <id>http://example.com/2023/01/19/Hexo%E5%8F%91%E8%A1%A8%E6%96%87%E7%AB%A0%E6%B5%81%E7%A8%8B/</id>
     <published>2023-01-18T23:19:40.586Z</published>
-    <updated>2023-01-18T23:19:40.586Z</updated>
+    <updated>2023-01-19T09:45:17.445Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>1.文章如何显示摘要</p><span id="more"></span><p>问题 点击主页时，发现所有文章都是全文显示，不利于查找，可控制显示的字数<br>解决办法 在你 MD 格式文章正文插入<!-- more -->即可，只会显示它之前的，此后的就不显示，点击文章标题，全文阅读才可看到，同时注释掉以下，在 themes&#x2F;yilia&#x2F;_config.yml</p><h1 id="excerpt-link-more"><a href="#excerpt-link-more" class="headerlink" title="excerpt_link: more"></a>excerpt_link: more</h1><p>1<br>2.如何展示标签<br>问题 在标签打开的情况下要展示什么标签，每篇文章属于那些标签？<br>解决办法 在博客的.md文件中添加tags标签如下：</p><hr><h2 id="title-我的标签date-2019-07-12tags-标签0-标签1"><a href="#title-我的标签date-2019-07-12tags-标签0-标签1" class="headerlink" title="title: 我的标签date: 2019-07-12tags:    - 标签0    - 标签1"></a>title: 我的标签<br>date: 2019-07-12<br>tags:<br>    - 标签0<br>    - 标签1</h2><p>3.如何发表<br>1.选择一个markdown编辑器，csdn带的就有<br>2.注册csdn登录进去，首先找到右上角头像的位置，选择账号设置，然后选择我的博客,然后选择博客设置,往下翻找到 默认编辑器类型：选择MarkDown编辑器 保存就ok了；<br>3.点击写博客，先了解下markdown编辑器基本的用法，然后就可以写博客了，写好之后导出到本地<br>会下载一个 .md 文件；然后找到这个md文件，把它复制到你hexo博客文件夹 中 source 下的 _posts 中，默认只有一个 hello-world.md；<br>4. 复制完之后然后使用文本编辑器打开它，在第一行加上title，内容自定，如</p><p>title: this is my first blog<br>1<br>5.接着在你博客站点文件夹下右键空白处，选择Git Bash Here，输入 hexo g (完整命令为hexo generate)，用于生成静态文件<br>6 然后 输入 hexo s(完整命令为hexo server)，用于启动服务器，主要用来本地预览；完成后 打开浏览器输入 localhost:4000，会发现多了你刚写的那篇博客<br>7 最后输入hexo d(hexo deploy)，用于将本地文件发布到github等git仓库上；<br>————————————————<br>版权声明：本文为CSDN博主「一点莹」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。<br>原文链接：<a href="https://blog.csdn.net/jingli456/article/details/95657460">https://blog.csdn.net/jingli456/article/details/95657460</a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;p&gt;1.文章如何显示摘要&lt;/p&gt;</summary>
     
     
     
@@ -38,10 +35,10 @@
   
   <entry>
     <title>我的第一篇个人博文</title>
-    <link href="http://example.com/2023/01/18/Test/"/>
-    <id>http://example.com/2023/01/18/Test/</id>
+    <link href="http://example.com/2023/01/18/First%20One/"/>
+    <id>http://example.com/2023/01/18/First%20One/</id>
     <published>2023-01-18T16:00:00.000Z</published>
-    <updated>2023-01-19T09:35:02.590Z</updated>
+    <updated>2023-01-19T09:46:15.112Z</updated>
     
     <content type="html"><![CDATA[<pre><code>折腾了一晚上加一上午，终于好像是搞定了。虽晚未迟。</code></pre><span id="more"></span><p>PS：感觉自己好像对这世界的敏感度不高，什么东西都是要慢一拍一样</p>]]></content>
     
@@ -52,7 +49,7 @@
     
     
     
-    <category term="-标签1" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    <category term="-随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
