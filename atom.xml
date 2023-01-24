@@ -59,7 +59,7 @@
     <link href="http://example.com/2023/01/20/%E9%99%A4%E5%A4%95/"/>
     <id>http://example.com/2023/01/20/%E9%99%A4%E5%A4%95/</id>
     <published>2023-01-20T16:00:00.000Z</published>
-    <updated>2023-01-24T13:27:08.951Z</updated>
+    <updated>2023-01-24T14:09:24.821Z</updated>
     
     <content type="html"><![CDATA[<pre><code>越大过年越没意思 </code></pre><span id="more"></span><p>  清晨六点睡不着了起床。。。。。。。。。。<br>  不想写了<br>  总结一句话 过了在项目这么多年最没年味的一个除夕夜 </p>]]></content>
     
@@ -68,6 +68,8 @@
 &lt;/code&gt;&lt;/pre&gt;</summary>
     
     
+    
+    <category term="-随想" scheme="http://example.com/categories/%E9%9A%8F%E6%83%B3/"/>
     
     
     <category term="2222" scheme="http://example.com/tags/2222/"/>
