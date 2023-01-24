@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-23T16:50:17.959Z</updated>
+  <updated>2023-01-24T08:43:56.470Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,31 +18,12 @@
   
   <entry>
     <title>图片测试</title>
-    <link href="http://example.com/2023/01/22/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
-    <id>http://example.com/2023/01/22/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</id>
+    <link href="http://example.com/2023/01/22/test2/"/>
+    <id>http://example.com/2023/01/22/test2/</id>
     <published>2023-01-22T16:00:00.000Z</published>
-    <updated>2023-01-23T16:50:17.959Z</updated>
+    <updated>2023-01-24T08:43:56.470Z</updated>
     
-    <content type="html"><![CDATA[<p>仅作测试</p><span id="more"></span><p>这是测试用 看看图片能否发布<br><img src="D:/1.png"></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;仅作测试&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="-测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>图片测试</title>
-    <link href="http://example.com/2023/01/22/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%952/"/>
-    <id>http://example.com/2023/01/22/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%952/</id>
-    <published>2023-01-22T16:00:00.000Z</published>
-    <updated>2023-01-23T16:50:04.343Z</updated>
-    
-    <content type="html"><![CDATA[<p>仅作测试</p><span id="more"></span><p>这是测试用 看看图片能否发布 之前没能成功<br><img src="/./%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%952/1.png"></p>]]></content>
+    <content type="html"><![CDATA[<p>仅作测试</p><span id="more"></span><p>这是测试用 看看图片能否发布 之前没能成功<br><img src="/./test2/1.png"></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;仅作测试&lt;/p&gt;</summary>
@@ -114,26 +95,6 @@
   </entry>
   
   <entry>
-    <title>给自己打打气</title>
-    <link href="http://example.com/2023/01/18/Second-20230119/"/>
-    <id>http://example.com/2023/01/18/Second-20230119/</id>
-    <published>2023-01-18T16:00:00.000Z</published>
-    <updated>2023-01-19T10:13:31.356Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>希望能一直坚持下去吧。</code></pre><span id="more"></span><p>要写什么还没想好</p>]]></content>
-    
-    
-    <summary type="html">&lt;pre&gt;&lt;code&gt;希望能一直坚持下去吧。
-&lt;/code&gt;&lt;/pre&gt;</summary>
-    
-    
-    
-    
-    <category term="-随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
     <title>我的第一篇个人博文</title>
     <link href="http://example.com/2023/01/18/First%20One/"/>
     <id>http://example.com/2023/01/18/First%20One/</id>
@@ -144,6 +105,26 @@
     
     
     <summary type="html">&lt;pre&gt;&lt;code&gt;折腾了一晚上加一上午，终于好像是搞定了。虽晚未迟。
+&lt;/code&gt;&lt;/pre&gt;</summary>
+    
+    
+    
+    
+    <category term="-随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给自己打打气</title>
+    <link href="http://example.com/2023/01/18/Second-20230119/"/>
+    <id>http://example.com/2023/01/18/Second-20230119/</id>
+    <published>2023-01-18T16:00:00.000Z</published>
+    <updated>2023-01-19T10:13:31.356Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>希望能一直坚持下去吧。</code></pre><span id="more"></span><p>要写什么还没想好</p>]]></content>
+    
+    
+    <summary type="html">&lt;pre&gt;&lt;code&gt;希望能一直坚持下去吧。
 &lt;/code&gt;&lt;/pre&gt;</summary>
     
     
