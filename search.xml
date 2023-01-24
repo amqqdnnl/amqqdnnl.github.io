@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>图片测试</title>
+      <link href="/2023/01/22/test2/"/>
+      <url>/2023/01/22/test2/</url>
+      
+        <content type="html"><![CDATA[<p>仅作测试</p><span id="more"></span><p>这是测试用 看看图片能否发布 之前没能成功<br><img src="1.png"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> -测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>除夕</title>
+      <link href="/2023/01/20/%E9%99%A4%E5%A4%95/"/>
+      <url>/2023/01/20/%E9%99%A4%E5%A4%95/</url>
+      
+        <content type="html"><![CDATA[<pre><code>越大过年越没意思 </code></pre><span id="more"></span><p>  清晨六点睡不着了起床。。。。。。。。。。<br>  不想写了<br>  总结一句话 过了在项目这么多年最没年味的一个除夕夜 </p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> -随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>初步架设完成</title>
+      <link href="/2023/01/19/Third-20230120/"/>
+      <url>/2023/01/19/Third-20230120/</url>
+      
+        <content type="html"><![CDATA[<pre><code>凌晨一点个人博客初步架设完成，</code></pre><span id="more"></span><p>整体框架有了，后续就是一些优化美观和其它一些功能的摸索了，如站内搜索、站内资源下载等等，当然最最重要的还是寻找合适的图片相关插件，实现个人相册的功能。<br>    兴趣所在是能坚持，连续坐了一两天了，腰酸背痛呀~~</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> -随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo发表文章流程及注意事项-转</title>
+      <link href="/2023/01/19/Hexo%E5%8F%91%E8%A1%A8%E6%96%87%E7%AB%A0%E6%B5%81%E7%A8%8B/"/>
+      <url>/2023/01/19/Hexo%E5%8F%91%E8%A1%A8%E6%96%87%E7%AB%A0%E6%B5%81%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<p>1.文章如何显示摘要</p><span id="more"></span><p>问题 点击主页时，发现所有文章都是全文显示，不利于查找，可控制显示的字数<br>解决办法 在你 MD 格式文章正文插入<!-- more -->即可，只会显示它之前的，此后的就不显示，点击文章标题，全文阅读才可看到，同时注释掉以下，在 themes&#x2F;yilia&#x2F;_config.yml</p><h1 id="excerpt-link-more"><a href="#excerpt-link-more" class="headerlink" title="excerpt_link: more"></a>excerpt_link: more</h1><p>1<br>2.如何展示标签<br>问题 在标签打开的情况下要展示什么标签，每篇文章属于那些标签？<br>解决办法 在博客的.md文件中添加tags标签如下：</p><hr><h2 id="title-我的标签date-2019-07-12tags-标签0-标签1"><a href="#title-我的标签date-2019-07-12tags-标签0-标签1" class="headerlink" title="title: 我的标签date: 2019-07-12tags:    - 标签0    - 标签1"></a>title: 我的标签<br>date: 2019-07-12<br>tags:<br>    - 标签0<br>    - 标签1</h2><p>3.如何发表<br>1.选择一个markdown编辑器，csdn带的就有<br>2.注册csdn登录进去，首先找到右上角头像的位置，选择账号设置，然后选择我的博客,然后选择博客设置,往下翻找到 默认编辑器类型：选择MarkDown编辑器 保存就ok了；<br>3.点击写博客，先了解下markdown编辑器基本的用法，然后就可以写博客了，写好之后导出到本地<br>会下载一个 .md 文件；然后找到这个md文件，把它复制到你hexo博客文件夹 中 source 下的 _posts 中，默认只有一个 hello-world.md；<br>4. 复制完之后然后使用文本编辑器打开它，在第一行加上title，内容自定，如</p><p>title: this is my first blog<br>1<br>5.接着在你博客站点文件夹下右键空白处，选择Git Bash Here，输入 hexo g (完整命令为hexo generate)，用于生成静态文件<br>6 然后 输入 hexo s(完整命令为hexo server)，用于启动服务器，主要用来本地预览；完成后 打开浏览器输入 localhost:4000，会发现多了你刚写的那篇博客<br>7 最后输入hexo d(hexo deploy)，用于将本地文件发布到github等git仓库上；<br>————————————————<br>版权声明：本文为CSDN博主「一点莹」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。<br>原文链接：<a href="https://blog.csdn.net/jingli456/article/details/95657460">https://blog.csdn.net/jingli456/article/details/95657460</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 技术文章 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的第一篇个人博文</title>
+      <link href="/2023/01/18/First%20One/"/>
+      <url>/2023/01/18/First%20One/</url>
+      
+        <content type="html"><![CDATA[<pre><code>折腾了一晚上加一上午，终于好像是搞定了。虽晚未迟。</code></pre><span id="more"></span><p>PS：感觉自己好像对这世界的敏感度不高，什么东西都是要慢一拍一样</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> -随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>给自己打打气</title>
+      <link href="/2023/01/18/Second-20230119/"/>
+      <url>/2023/01/18/Second-20230119/</url>
+      
+        <content type="html"><![CDATA[<pre><code>希望能一直坚持下去吧。</code></pre><span id="more"></span><p>要写什么还没想好</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> -随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
