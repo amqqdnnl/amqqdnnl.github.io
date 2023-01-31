@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-26T20:57:37.489Z</updated>
+  <updated>2023-01-31T09:38:53.370Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>改变习惯太难了</title>
+    <link href="http://example.com/2023/01/31/20230131/"/>
+    <id>http://example.com/2023/01/31/20230131/</id>
+    <published>2023-01-31T02:19:00.000Z</published>
+    <updated>2023-01-31T09:38:53.370Z</updated>
+    
+    <content type="html"><![CDATA[<p>  想改变想形成好的习惯真的太难了，读书的习惯又没能坚持好久。<br>  一定要努力争取改过来。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;  想改变想形成好的习惯真的太难了，读书的习惯又没能坚持好久。&lt;br&gt;  一定要努力争取改过来。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="-日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="-随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>第一次跑步-20min</title>
