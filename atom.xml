@@ -38,16 +38,16 @@
   </entry>
   
   <entry>
-    <title>打卡0222</title>
+    <title>测试</title>
     <link href="http://example.com/2023/02/18/Wine/%E6%89%93%E5%8D%A10222/"/>
     <id>http://example.com/2023/02/18/Wine/%E6%89%93%E5%8D%A10222/</id>
     <published>2023-02-18T14:29:38.000Z</published>
-    <updated>2023-02-18T23:02:40.563Z</updated>
+    <updated>2023-02-18T23:05:05.865Z</updated>
     
-    <content type="html"><![CDATA[<p>每日打卡0218–完成</p><span id="more"></span><p>每天半小时快步走 - 3372步（快走了40分钟不知道为啥才这点步数）<br>每天半小时有声书 - 完成<br><img src="1.png"><br><img src="2.png"></p>]]></content>
+    <content type="html"><![CDATA[<p>测试</p><span id="more"></span><p>每天半小时快步走 - 3372步（快走了40分钟不知道为啥才这点步数）<br>每天半小时有声书 - 完成<br><img src="1.png"></p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;每日打卡0218–完成&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;测试&lt;/p&gt;</summary>
     
     
     
