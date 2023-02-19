@@ -18,8 +18,8 @@
   
   <entry>
     <title>Gentleman Jack</title>
-    <link href="http://example.com/2023/02/18/Wine/004-gentleman%20jack/"/>
-    <id>http://example.com/2023/02/18/Wine/004-gentleman%20jack/</id>
+    <link href="http://example.com/2023/02/18/004-gentleman%20jack/"/>
+    <id>http://example.com/2023/02/18/004-gentleman%20jack/</id>
     <published>2023-02-18T16:49:03.000Z</published>
     <updated>2023-02-18T23:59:23.544Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>The Glenrothes 10 Year Old</title>
-    <link href="http://example.com/2023/02/18/Wine/003-The%20Glenrothes/"/>
-    <id>http://example.com/2023/02/18/Wine/003-The%20Glenrothes/</id>
+    <link href="http://example.com/2023/02/18/003-The%20Glenrothes/"/>
+    <id>http://example.com/2023/02/18/003-The%20Glenrothes/</id>
     <published>2023-02-18T16:13:03.000Z</published>
     <updated>2023-02-18T23:43:41.426Z</updated>
     
@@ -81,8 +81,8 @@
   
   <entry>
     <title>Bushmills Original</title>
-    <link href="http://example.com/2023/02/18/Wine/002-Bushmills%20Original/"/>
-    <id>http://example.com/2023/02/18/Wine/002-Bushmills%20Original/</id>
+    <link href="http://example.com/2023/02/18/002-Bushmills%20Original/"/>
+    <id>http://example.com/2023/02/18/002-Bushmills%20Original/</id>
     <published>2023-02-18T14:13:03.000Z</published>
     <updated>2023-02-19T00:00:28.629Z</updated>
     
@@ -232,8 +232,8 @@
   
   <entry>
     <title>格兰威特The Glenlivet 1824</title>
-    <link href="http://example.com/2023/02/01/Wine/001-The%20Glenlivet%201824/"/>
-    <id>http://example.com/2023/02/01/Wine/001-The%20Glenlivet%201824/</id>
+    <link href="http://example.com/2023/02/01/001-The%20Glenlivet%201824/"/>
+    <id>http://example.com/2023/02/01/001-The%20Glenlivet%201824/</id>
     <published>2023-02-01T14:13:03.000Z</published>
     <updated>2023-02-18T23:22:00.012Z</updated>
     
