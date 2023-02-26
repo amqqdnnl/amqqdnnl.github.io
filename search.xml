@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>周末</title>
+      <link href="/2023/02/26/%E5%AE%9D%E5%A1%94%E6%8C%82%E5%9C%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%96%B9%E6%B3%95/"/>
+      <url>/2023/02/26/%E5%AE%9D%E5%A1%94%E6%8C%82%E5%9C%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<p>大家都知道宝塔默认是安装在系统盘&#x2F;www目录下的，一般我们开云服务器基本都是开个系统盘+数据盘(小应用除外)，那么如何将宝塔直接安装在数据盘里呢</p><span id="more"></span><p>首页，我们需要重新选择操作系统，我选择的是“CentOS 7.6 64位”安装系统步骤就省略了，反正你购买云服务器的时候，选择这个系统其实就已经给你装好了，所以没有所谓安装系统…</p><p>然后，我们首先挂载UCloud的数据磁盘：(注意：UCloud云硬盘管理直接点击挂载就可以成功挂载，后面就用下面二条命令安装就可以了，第一条主要是针对硬盘自动挂载命令，第二条是针对宝塔安装的命令)</p><p>进入linux：输入以下命令Centos&#x2F;Fedora：</p><p>yum install wget -y &amp;&amp; wget -O auto_disk.sh <a href="http://download.bt.cn/tools/auto_disk.sh">http://download.bt.cn/tools/auto_disk.sh</a> &amp;&amp; bash auto_disk.sh</p><p>然后，会提示是否安装，选择：“y”就可以自己挂载数据盘了。</p><p>特别说明：</p><p>1：本工具默认将数据盘挂载到&#x2F;www目录</p><p>2：若服务器上已存在&#x2F;www目录，为了您的数据安全，挂载工具会自动跳过</p><p>3：若您的服务器之前安装过Windows系统，需要手动删除NTFS分区，挂载工具会直接跳过NTFS分区</p><p>4：若您的磁盘已分区，且未挂载，工具会自动将分区挂载到&#x2F;www</p><p>5：若您的磁盘是新磁盘，工具会自动分区并格式化成ext4文件系统</p><p>6：本工具只自动挂载一个分区，若您有多块数据盘，请手动挂载未被自动挂载的磁盘7：若要挂载到其它目录，请在第一个参数传入目录名</p><p>特别注意： 请在安装宝塔之前挂载磁盘，否则程序将直接跳过挂载过程。</p><p>OK，自动挂载完成之后我们开始安装宝塔控制面板：</p><p>进入linux系统，输入以下命令：</p><p>Centos安装脚本：</p><p>yum install -y wget &amp;&amp; wget -O install.sh <a href="http://download.bt.cn/install/install_6.0.sh">http://download.bt.cn/install/install_6.0.sh</a> &amp;&amp; sh install.sh</p><p>选择：“y”进行安装，大概十分钟左右，会在最底部出现控制面板的帐号和密码，然后登陆后台系统，部署网站程序就可以了，后台有两种形式安装一种是编译安装一种是快捷安装，性能来说最好选择编译安装。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> -工作 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -技术文章 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>打卡0220</title>
       <link href="/2023/02/21/Daily/%E6%89%93%E5%8D%A10220/"/>
       <url>/2023/02/21/Daily/%E6%89%93%E5%8D%A10220/</url>
@@ -520,7 +545,7 @@
       
         <tags>
             
-            <tag> 技术文章 </tag>
+            <tag> -技术文章 </tag>
             
         </tags>
       

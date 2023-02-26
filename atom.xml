@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-21T08:42:19.580Z</updated>
+  <updated>2023-02-26T21:05:28.212Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周末</title>
+    <link href="http://example.com/2023/02/26/%E5%AE%9D%E5%A1%94%E6%8C%82%E5%9C%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%96%B9%E6%B3%95/"/>
+    <id>http://example.com/2023/02/26/%E5%AE%9D%E5%A1%94%E6%8C%82%E5%9C%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%96%B9%E6%B3%95/</id>
+    <published>2023-02-26T14:05:03.000Z</published>
+    <updated>2023-02-26T21:05:28.212Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家都知道宝塔默认是安装在系统盘&#x2F;www目录下的，一般我们开云服务器基本都是开个系统盘+数据盘(小应用除外)，那么如何将宝塔直接安装在数据盘里呢</p><span id="more"></span><p>首页，我们需要重新选择操作系统，我选择的是“CentOS 7.6 64位”安装系统步骤就省略了，反正你购买云服务器的时候，选择这个系统其实就已经给你装好了，所以没有所谓安装系统…</p><p>然后，我们首先挂载UCloud的数据磁盘：(注意：UCloud云硬盘管理直接点击挂载就可以成功挂载，后面就用下面二条命令安装就可以了，第一条主要是针对硬盘自动挂载命令，第二条是针对宝塔安装的命令)</p><p>进入linux：输入以下命令Centos&#x2F;Fedora：</p><p>yum install wget -y &amp;&amp; wget -O auto_disk.sh <a href="http://download.bt.cn/tools/auto_disk.sh">http://download.bt.cn/tools/auto_disk.sh</a> &amp;&amp; bash auto_disk.sh</p><p>然后，会提示是否安装，选择：“y”就可以自己挂载数据盘了。</p><p>特别说明：</p><p>1：本工具默认将数据盘挂载到&#x2F;www目录</p><p>2：若服务器上已存在&#x2F;www目录，为了您的数据安全，挂载工具会自动跳过</p><p>3：若您的服务器之前安装过Windows系统，需要手动删除NTFS分区，挂载工具会直接跳过NTFS分区</p><p>4：若您的磁盘已分区，且未挂载，工具会自动将分区挂载到&#x2F;www</p><p>5：若您的磁盘是新磁盘，工具会自动分区并格式化成ext4文件系统</p><p>6：本工具只自动挂载一个分区，若您有多块数据盘，请手动挂载未被自动挂载的磁盘7：若要挂载到其它目录，请在第一个参数传入目录名</p><p>特别注意： 请在安装宝塔之前挂载磁盘，否则程序将直接跳过挂载过程。</p><p>OK，自动挂载完成之后我们开始安装宝塔控制面板：</p><p>进入linux系统，输入以下命令：</p><p>Centos安装脚本：</p><p>yum install -y wget &amp;&amp; wget -O install.sh <a href="http://download.bt.cn/install/install_6.0.sh">http://download.bt.cn/install/install_6.0.sh</a> &amp;&amp; sh install.sh</p><p>选择：“y”进行安装，大概十分钟左右，会在最底部出现控制面板的帐号和密码，然后登陆后台系统，部署网站程序就可以了，后台有两种形式安装一种是编译安装一种是快捷安装，性能来说最好选择编译安装。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;大家都知道宝塔默认是安装在系统盘&amp;#x2F;www目录下的，一般我们开云服务器基本都是开个系统盘+数据盘(小应用除外)，那么如何将宝塔直接安装在数据盘里呢&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="-工作" scheme="http://example.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+    <category term="-技术文章" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>打卡0220</title>
@@ -430,28 +451,6 @@
     
     
     <category term="-随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>初步架设完成</title>
-    <link href="http://example.com/2023/01/19/Third-20230120/"/>
-    <id>http://example.com/2023/01/19/Third-20230120/</id>
-    <published>2023-01-19T16:00:00.000Z</published>
-    <updated>2023-02-26T15:36:58.515Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>凌晨一点个人博客初步架设完成，</code></pre><span id="more"></span><p>整体框架有了，后续就是一些优化美观和其它一些功能的摸索了，如站内搜索、站内资源下载等等，当然最最重要的还是寻找合适的图片相关插件，实现个人相册的功能。<br>    兴趣所在是能坚持，连续坐了一两天了，腰酸背痛呀~~<br><img src="https://i1.100024.xyz/2023/02/26/12i66ew.webp"></p>]]></content>
-    
-    
-    <summary type="html">&lt;pre&gt;&lt;code&gt;凌晨一点个人博客初步架设完成，
-&lt;/code&gt;&lt;/pre&gt;</summary>
-    
-    
-    
-    <category term="-日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-    <category term="-杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
