@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-26T21:30:08.889Z</updated>
+  <updated>2023-02-28T09:27:42.112Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>思考</title>
+    <link href="http://example.com/2023/02/28/20230228/"/>
+    <id>http://example.com/2023/02/28/20230228/</id>
+    <published>2023-02-28T02:26:03.000Z</published>
+    <updated>2023-02-28T09:27:42.112Z</updated>
+    
+    <content type="html"><![CDATA[<p>生活哪有可能一帆风顺的 不要抱怨 出了问题有了烦恼 逐个解决就行了 世间万事没有必要的因果关系了<br>加油</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;生活哪有可能一帆风顺的 不要抱怨 出了问题有了烦恼 逐个解决就行了 世间万事没有必要的因果关系了&lt;br&gt;加油&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="-心绪" scheme="http://example.com/categories/%E5%BF%83%E7%BB%AA/"/>
+    
+    
+    <category term="-杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>Nextcloud安装办法-Centos</title>
@@ -422,27 +447,6 @@
     
     
     <summary type="html">&lt;p&gt;  丑的时候就像他爹，乖的时候嘛肯定就是像他妈了&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="-小虎成长记" scheme="http://example.com/categories/%E5%B0%8F%E8%99%8E%E6%88%90%E9%95%BF%E8%AE%B0/"/>
-    
-    
-    <category term="-小33" scheme="http://example.com/tags/%E5%B0%8F33/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>小33</title>
-    <link href="http://example.com/2023/01/24/33/"/>
-    <id>http://example.com/2023/01/24/33/</id>
-    <published>2023-01-24T02:41:52.000Z</published>
-    <updated>2023-01-26T20:58:40.752Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/33/1.jpg"></p><span id="more"></span><p>这神情好像有点小得意哟</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/33/1.jpg&quot;&gt;&lt;/p&gt;</summary>
     
     
     
