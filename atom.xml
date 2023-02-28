@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-28T09:36:34.692Z</updated>
+  <updated>2023-02-28T21:34:36.913Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简单图床测试</title>
+    <link href="http://example.com/2023/02/28/20230229/"/>
+    <id>http://example.com/2023/02/28/20230229/</id>
+    <published>2023-02-28T14:31:17.000Z</published>
+    <updated>2023-02-28T21:34:36.913Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试一下简单图床是否搭建好。</p><span id="more"></span><p>测试测试<br><img src="http://hshcq.xyz:5432/i/2023/03/01/8r2urb.png"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;测试一下简单图床是否搭建好。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="-工作" scheme="http://example.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+    <category term="-技术文章" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>思考</title>
@@ -433,27 +454,6 @@
     
     
     <category term="-杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>你老妈的朋友圈</title>
-    <link href="http://example.com/2023/01/26/20230125/"/>
-    <id>http://example.com/2023/01/26/20230125/</id>
-    <published>2023-01-26T01:20:33.000Z</published>
-    <updated>2023-01-26T08:43:16.996Z</updated>
-    
-    <content type="html"><![CDATA[<p>  丑的时候就像他爹，乖的时候嘛肯定就是像他妈了</p><span id="more"></span><p>  看看你老妈发的朋友圈，太抹黑我俩了吧。<br>  不过说实话，幺儿你乖与不乖的时候感觉完全是两个人。<br><img src="/20230125/1.jpg"><br><img src="/20230125/2.jpg"></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;  丑的时候就像他爹，乖的时候嘛肯定就是像他妈了&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="-小虎成长记" scheme="http://example.com/categories/%E5%B0%8F%E8%99%8E%E6%88%90%E9%95%BF%E8%AE%B0/"/>
-    
-    
-    <category term="-小33" scheme="http://example.com/tags/%E5%B0%8F33/"/>
     
   </entry>
   
