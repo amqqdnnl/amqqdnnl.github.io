@@ -8,7 +8,7 @@
       <link href="/2023/02/28/20230229/"/>
       <url>/2023/02/28/20230229/</url>
       
-        <content type="html"><![CDATA[<p>测试一下简单图床是否搭建好。</p><span id="more"></span><p>测试测试<br><img src="http://hshcq.xyz:5432/i/2023/03/01/8r2urb.png"></p>]]></content>
+        <content type="html"><![CDATA[<p>测试一下简单图床是否搭建好。</p><span id="more"></span><p>测试测试<br><img src="/%7B%22result%22:%22failed%22,%22code%22:201,%22message%22:%22API%20Closed%22%7D"></p>]]></content>
       
       
       <categories>

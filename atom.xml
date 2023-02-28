@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-28T21:34:36.913Z</updated>
+  <updated>2023-02-28T21:55:19.214Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2023/02/28/20230229/"/>
     <id>http://example.com/2023/02/28/20230229/</id>
     <published>2023-02-28T14:31:17.000Z</published>
-    <updated>2023-02-28T21:34:36.913Z</updated>
+    <updated>2023-02-28T21:55:19.214Z</updated>
     
-    <content type="html"><![CDATA[<p>测试一下简单图床是否搭建好。</p><span id="more"></span><p>测试测试<br><img src="http://hshcq.xyz:5432/i/2023/03/01/8r2urb.png"></p>]]></content>
+    <content type="html"><![CDATA[<p>测试一下简单图床是否搭建好。</p><span id="more"></span><p>测试测试<br><img src="/%7B%22result%22:%22failed%22,%22code%22:201,%22message%22:%22API%20Closed%22%7D"></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;测试一下简单图床是否搭建好。&lt;/p&gt;</summary>
