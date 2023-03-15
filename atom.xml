@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-28T21:55:19.214Z</updated>
+  <updated>2023-03-15T07:51:48.631Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>换车</title>
+    <link href="http://example.com/2023/03/15/20230315/"/>
+    <id>http://example.com/2023/03/15/20230315/</id>
+    <published>2023-03-15T00:31:17.000Z</published>
+    <updated>2023-03-15T07:51:48.631Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近在纠结换车的问题。</p><span id="more"></span><p>随着诗翰出生，一个新的问题又出现了，他的车放婴儿进我们车的后备箱真的是刚刚好，来来回回放取了几次后婴儿车的轮子都有点小问题了，再加上现在这车后排空间较小，装安全座椅的话肯定也会显得非常拥挤，换个大点的SUV随之就提上了日程。<br>前几天比较来比较去我们都比较看好X3，落地怎么也得35W左右，感觉超过了我们的承受能力，但如果是落地在20左右的合资车又没得什么选择的，这价位基本就只能选择国产车了，我又不想用。<br>纠结呀。。。。。归根结底还是穷。。。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;最近在纠结换车的问题。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="-日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="-随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>简单图床测试</title>
@@ -429,31 +450,6 @@
     
     
     <category term="-随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第一次跑步-20min</title>
-    <link href="http://example.com/2023/01/26/20230126/"/>
-    <id>http://example.com/2023/01/26/20230126/</id>
-    <published>2023-01-26T13:53:23.000Z</published>
-    <updated>2023-01-26T20:57:37.489Z</updated>
-    
-    <content type="html"><![CDATA[<p>让机修工弄好的跑步机今天终于用上了，低速走了20分钟，没觉得有好累但也还是出汗了，改天再继续。<br>今天幺爸也明确说了不来带幺儿了，冉锦无礼貌的行为有点让我心寒，虽然我没帮他们什么，哈哈</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;让机修工弄好的跑步机今天终于用上了，低速走了20分钟，没觉得有好累但也还是出汗了，改天再继续。&lt;br&gt;今天幺爸也明确说了不来带幺儿了，冉锦无礼貌的行为有点让我心寒，虽然我没帮他们什么，哈哈&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="-日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-    <category term="-杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
