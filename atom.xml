@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-15T07:51:48.631Z</updated>
+  <updated>2023-03-15T22:15:24.116Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无奈</title>
+    <link href="http://example.com/2023/03/15/20230316/"/>
+    <id>http://example.com/2023/03/15/20230316/</id>
+    <published>2023-03-15T16:31:17.000Z</published>
+    <updated>2023-03-15T22:15:24.116Z</updated>
+    
+    <content type="html"><![CDATA[<p>其实每个成年男人都很无奈，又都在拼尽全力。</p><span id="more"></span><p>应酬陪外国业主喝酒，去的温州饭店，带的10年老酒。<br>约的六点半，他们八点左右才到，我早已饿得前胸贴后背但还得强颜欢笑给他们翻译给他们解释给菜点了，然后把酒给满上，一两半的杯。<br>才喝了一口汤，菜还未上，我就开开玩笑说了句“U try the Chinese water, but the one cup only for one time”， 外国业主二话不说，两人举起杯子一口就干了，我能怎样，干。。。。<br>喝到十点过散场，我们领导去厕所吐了十多分钟才出来，我状态稍好。。。。。。<br>只能说中年男人真的很无奈，很多时候我也累我也委屈，我想任性，但不行， u r man, u r husband, u r farther， 只能拼命，只能一个人时哭给自己看。<br>加油。。。。。。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;其实每个成年男人都很无奈，又都在拼尽全力。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="-日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="-思绪" scheme="http://example.com/tags/%E6%80%9D%E7%BB%AA/"/>
+    
+  </entry>
   
   <entry>
     <title>换车</title>
@@ -425,31 +446,6 @@
     
     
     <category term="-杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>改变习惯太难了</title>
-    <link href="http://example.com/2023/01/31/20230131/"/>
-    <id>http://example.com/2023/01/31/20230131/</id>
-    <published>2023-01-31T02:19:00.000Z</published>
-    <updated>2023-01-31T09:38:53.370Z</updated>
-    
-    <content type="html"><![CDATA[<p>  想改变想形成好的习惯真的太难了，读书的习惯又没能坚持好久。<br>  一定要努力争取改过来。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;  想改变想形成好的习惯真的太难了，读书的习惯又没能坚持好久。&lt;br&gt;  一定要努力争取改过来。&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="-日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-    <category term="-随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
