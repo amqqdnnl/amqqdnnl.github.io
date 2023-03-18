@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-15T22:15:24.116Z</updated>
+  <updated>2023-03-18T10:31:46.430Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>淡然</title>
+    <link href="http://example.com/2023/03/17/20230317/"/>
+    <id>http://example.com/2023/03/17/20230317/</id>
+    <published>2023-03-17T14:31:17.000Z</published>
+    <updated>2023-03-18T10:31:46.430Z</updated>
+    
+    <content type="html"><![CDATA[<p>只有拥有才能谈不在乎。</p><span id="more"></span><p>只有拥有过才能有资格去谈放弃或不在乎。<br> 不仅仅应该反对拥有权力的专制者，还应该反对专制的逻辑。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;只有拥有才能谈不在乎。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="-日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="-思绪" scheme="http://example.com/tags/%E6%80%9D%E7%BB%AA/"/>
+    
+  </entry>
   
   <entry>
     <title>无奈</title>
@@ -422,27 +443,6 @@
     
     
     <category term="-心绪" scheme="http://example.com/categories/%E5%BF%83%E7%BB%AA/"/>
-    
-    
-    <category term="-杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>格兰威特The Glenlivet 1824</title>
-    <link href="http://example.com/2023/02/01/001-The%20Glenlivet%201824/"/>
-    <id>http://example.com/2023/02/01/001-The%20Glenlivet%201824/</id>
-    <published>2023-02-01T14:13:03.000Z</published>
-    <updated>2023-02-19T00:15:12.731Z</updated>
-    
-    <content type="html"><![CDATA[<p>格兰威特THE GLENLIVET酒厂位于南斯佩赛产区的支流RIVER LIVET河谷，水涌自花岗岩，且常在地底伏流数里，是公认的用来酿造威士忌的最好水源之一。</p><span id="more"></span><p>在1824年取得该地区第一张合法的蒸馏厂执照。1822年，英王乔治四世出巡，爱丁堡的华特史考特爵士特地准备了GLENLIVET威士忌招待，结果乔治四世一喝便上了瘾，GLENLIVET也从此声名大噪，许多蒸馏厂甚至偷偷地在酒标上私自印上GLENLIVET的字样。如果你现在在某个国家或跳蚤市场上，发现别的威士忌品牌酒标下面有GLENLIVET，那绝对是已经绝版的珍宝！格兰威特更为名著的是它那青苹果的香气，即便是低年份的酒款，依然柔和芬芳。</p><p>格兰威特THE GLENLIVET 1824色香和口感：</p><p>色香：香气中等。干净，略带一些花香、香蕉和熟苹果，最后留下一抹鸢尾花的芬芳。</p><p>口感：柔和，典雅，淡淡的水果味及苹果和西葫芦的清爽。</p><p>回味：清爽干净。</p><p>酒精度40%（南斯佩赛产区）<br><img src="/001/1.png"></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;格兰威特THE GLENLIVET酒厂位于南斯佩赛产区的支流RIVER LIVET河谷，水涌自花岗岩，且常在地底伏流数里，是公认的用来酿造威士忌的最好水源之一。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="-青梅煮酒" scheme="http://example.com/categories/%E9%9D%92%E6%A2%85%E7%85%AE%E9%85%92/"/>
     
     
     <category term="-杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
