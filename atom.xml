@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-18T10:31:46.430Z</updated>
+  <updated>2023-04-04T21:54:39.440Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>焦虑</title>
+    <link href="http://example.com/2023/04/04/20230404/"/>
+    <id>http://example.com/2023/04/04/20230404/</id>
+    <published>2023-04-04T14:31:17.000Z</published>
+    <updated>2023-04-04T21:54:39.440Z</updated>
+    
+    <content type="html"><![CDATA[<p>度日如年！</p><span id="more"></span><p>现真的是度日如年了，就想快点回家看看你看看你们，小幺儿在受着罪，大幺儿在熬着夜，也我却在千万里之外~~~</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;度日如年！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="-日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="-思绪" scheme="http://example.com/tags/%E6%80%9D%E7%BB%AA/"/>
+    
+  </entry>
   
   <entry>
     <title>淡然</title>
@@ -421,31 +442,6 @@
     
     
     <category term="-打卡" scheme="http://example.com/tags/%E6%89%93%E5%8D%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>周末</title>
-    <link href="http://example.com/2023/02/11/20230211/"/>
-    <id>http://example.com/2023/02/11/20230211/</id>
-    <published>2023-02-11T10:13:03.000Z</published>
-    <updated>2023-02-11T19:47:38.431Z</updated>
-    
-    <content type="html"><![CDATA[<p>又到周末 心绪难平 多话不说了</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;又到周末 心绪难平 多话不说了&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="-心绪" scheme="http://example.com/categories/%E5%BF%83%E7%BB%AA/"/>
-    
-    
-    <category term="-杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
