@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-04T21:54:39.440Z</updated>
+  <updated>2023-06-14T10:52:44.256Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>想读书单</title>
+    <link href="http://example.com/2023/06/12/20230612/"/>
+    <id>http://example.com/2023/06/12/20230612/</id>
+    <published>2023-06-12T09:01:17.000Z</published>
+    <updated>2023-06-14T10:52:44.256Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="想列个清单在这吧，明年再来看读完了几本。《我从未如此眷恋人间》《你也走了很远的路吧》《太白金星有点烦》"><a href="#想列个清单在这吧，明年再来看读完了几本。《我从未如此眷恋人间》《你也走了很远的路吧》《太白金星有点烦》" class="headerlink" title="想列个清单在这吧，明年再来看读完了几本。《我从未如此眷恋人间》《你也走了很远的路吧》《太白金星有点烦》"></a>想列个清单在这吧，明年再来看读完了几本。<br><span id="more"></span><br>《我从未如此眷恋人间》<br>《你也走了很远的路吧》<br>《太白金星有点烦》</h2>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;想列个清单在这吧，明年再来看读完了几本。《我从未如此眷恋人间》《你也走了很远的路吧》《太白金星有点烦》&quot;&gt;&lt;a href=&quot;#想列个清单在这吧，明年再来看读完了几本。《我从未如此眷恋人间》《你也走了很远的路吧》《太白金星有点烦》&quot; class=&quot;headerlink&quot; title=&quot;想列个清单在这吧，明年再来看读完了几本。《我从未如此眷恋人间》《你也走了很远的路吧》《太白金星有点烦》&quot;&gt;&lt;/a&gt;想列个清单在这吧，明年再来看读完了几本。&lt;br&gt;&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="-心绪" scheme="http://example.com/categories/%E5%BF%83%E7%BB%AA/"/>
+    
+    
+    <category term="-杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>焦虑</title>
@@ -414,27 +435,6 @@
     
     
     <summary type="html">&lt;p&gt;每日打卡0214–完成&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="-打卡" scheme="http://example.com/categories/%E6%89%93%E5%8D%A1/"/>
-    
-    
-    <category term="-打卡" scheme="http://example.com/tags/%E6%89%93%E5%8D%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>打卡0213</title>
-    <link href="http://example.com/2023/02/13/Daily/%E6%89%93%E5%8D%A10213/"/>
-    <id>http://example.com/2023/02/13/Daily/%E6%89%93%E5%8D%A10213/</id>
-    <published>2023-02-13T15:00:38.000Z</published>
-    <updated>2023-02-17T08:24:28.913Z</updated>
-    
-    <content type="html"><![CDATA[<p>每日打卡0213–完成</p><span id="more"></span><p>每天半小时快步走 - 9970步<br>每天半小时有声书 - 完成<br><img src="/%E6%89%93%E5%8D%A10213/1.png"><br><img src="/%E6%89%93%E5%8D%A10213/2.png"></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;每日打卡0213–完成&lt;/p&gt;</summary>
     
     
     
